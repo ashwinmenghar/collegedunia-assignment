@@ -1,0 +1,383 @@
+[
+  {
+    "collegeduniaRank": 1,
+    "name": "IIT Madras - Indian Institute of Technology, Chennai",
+    "branches": {
+      "name": "B.Tech Computer Science Engineering",
+      "cutoff": 144
+    },
+    "location": "Chennai, Tamil Nadu",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.5,
+    "course": {
+      "fees": "2,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "12,99,000", "highest": "21,09,550" },
+    "userReviewRating": { "review": "8.9", "users": "250" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 2,
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "branches": { "name": "B.Tech Electrical Engineering", "cutoff": 120 },
+    "location": "Bangalore, Karnataka",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.5,
+    "course": {
+      "fees": "1,19,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "12,50,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "550" },
+    "ranking": 1,
+    "sup": "st",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 3,
+    "name": "Jawaharlal Nehru University (JNU), New Delhi",
+    "branches": { "name": "B.Tech Computer Science Engineering", "cutoff": 88 },
+    "location": "New Delhi",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.3,
+    "course": {
+      "fees": "2,19,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "15,00,000", "highest": "34,00,000" },
+    "userReviewRating": { "review": "9.0", "users": "90" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 4,
+    "name": "Jamia Millia Islamia, New Delhi",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 110 },
+    "location": "New Delhi",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 3.0,
+    "course": {
+      "fees": "1,49,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "11,00,000" },
+    "userReviewRating": { "review": "8.0", "users": "10" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": true
+  },
+  {
+    "collegeduniaRank": 5,
+    "name": "University of Delhi, Delhi",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 96 },
+    "location": "Delhi",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.6,
+    "course": {
+      "fees": "1,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "13,00,000", "highest": "20,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "450" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 6,
+    "name": "BITS Pilani, Pilani Campus",
+    "branches": { "name": "B.E. Computer Science Engineering", "cutoff": 280 },
+    "location": "Pilani, Rajasthan",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 3.8,
+    "course": {
+      "fees": "1,29,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "6,50,000", "highest": "8,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "250" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 7,
+    "name": "NIT Trichy, Tiruchirappalli",
+    "branches": { "name": "B.Tech Mechanical Engineering", "cutoff": 130 },
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.4,
+    "course": {
+      "fees": "1,30,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "6,00,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "5.9", "users": "19" },
+    "ranking": 5,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 8,
+    "name": "IIM Ahmedabad, Ahmedabad",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 99.5 },
+    "location": "Ahmedabad, Gujarat",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.9,
+    "course": {
+      "fees": "99,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "09,90,000", "highest": "10,00,000" },
+    "userReviewRating": { "review": "5.9", "users": "70" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 9,
+    "name": "Christ University, Bengaluru",
+    "branches": { "name": "B.Tech Computer Science Engineering", "cutoff": 85 },
+    "location": "Bengaluru, Karnataka",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 5.0,
+    "course": {
+      "fees": "90,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "11,00,000", "highest": "20,00,000" },
+    "userReviewRating": { "review": "9.0", "users": "211" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 10,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 11,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 12,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 13,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 14,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 15,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 16,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 17,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 18,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 19,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 20,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 21,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  }
+]
