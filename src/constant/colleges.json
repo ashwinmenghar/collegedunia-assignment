@@ -379,5 +379,461 @@
     "ranking": 4,
     "sup": "th",
     "featured": false
+  },
+  {
+    "collegeduniaRank": 22,
+    "name": "IIT Madras - Indian Institute of Technology, Chennai",
+    "branches": {
+      "name": "B.Tech Computer Science Engineering",
+      "cutoff": 144
+    },
+    "location": "Chennai, Tamil Nadu",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.5,
+    "course": {
+      "fees": "2,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "12,99,000", "highest": "21,09,550" },
+    "userReviewRating": { "review": "8.9", "users": "250" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 23,
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "branches": { "name": "B.Tech Electrical Engineering", "cutoff": 120 },
+    "location": "Bangalore, Karnataka",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.5,
+    "course": {
+      "fees": "1,19,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "12,50,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "550" },
+    "ranking": 1,
+    "sup": "st",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 24,
+    "name": "Jawaharlal Nehru University (JNU), New Delhi",
+    "branches": { "name": "B.Tech Computer Science Engineering", "cutoff": 88 },
+    "location": "New Delhi",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.3,
+    "course": {
+      "fees": "2,19,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "15,00,000", "highest": "34,00,000" },
+    "userReviewRating": { "review": "9.0", "users": "90" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 25,
+    "name": "Jamia Millia Islamia, New Delhi",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 110 },
+    "location": "New Delhi",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 3.0,
+    "course": {
+      "fees": "1,49,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "11,00,000" },
+    "userReviewRating": { "review": "8.0", "users": "10" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": true
+  },
+  {
+    "collegeduniaRank": 26,
+    "name": "University of Delhi, Delhi",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 96 },
+    "location": "Delhi",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.6,
+    "course": {
+      "fees": "1,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "13,00,000", "highest": "20,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "450" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 27,
+    "name": "BITS Pilani, Pilani Campus",
+    "branches": { "name": "B.E. Computer Science Engineering", "cutoff": 280 },
+    "location": "Pilani, Rajasthan",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 3.8,
+    "course": {
+      "fees": "1,29,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "6,50,000", "highest": "8,00,000" },
+    "userReviewRating": { "review": "8.9", "users": "250" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 28,
+    "name": "NIT Trichy, Tiruchirappalli",
+    "branches": { "name": "B.Tech Mechanical Engineering", "cutoff": 130 },
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.4,
+    "course": {
+      "fees": "1,30,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "6,00,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "5.9", "users": "19" },
+    "ranking": 5,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 29,
+    "name": "IIM Ahmedabad, Ahmedabad",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 99.5 },
+    "location": "Ahmedabad, Gujarat",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.9,
+    "course": {
+      "fees": "99,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "9,90,000", "highest": "10,00,000" },
+    "userReviewRating": { "review": "5.9", "users": "70" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 30,
+    "name": "Christ University, Bengaluru",
+    "branches": { "name": "B.Tech Computer Science Engineering", "cutoff": 85 },
+    "location": "Bengaluru, Karnataka",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 5.0,
+    "course": {
+      "fees": "90,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "11,00,000", "highest": "20,00,000" },
+    "userReviewRating": { "review": "9.0", "users": "211" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 31,
+    "name": "IIT Bombay - Indian Institute of Technology, Mumbai",
+    "branches": { "name": "B.Tech Aerospace Engineering", "cutoff": 150 },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,09,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "25,09,550" },
+    "userReviewRating": { "review": "7.9", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 32,
+    "name": "Anna University, Chennai",
+    "branches": {
+      "name": "B.Tech Electronics and Communication Engineering",
+      "cutoff": 160
+    },
+    "location": "Chennai, Tamil Nadu",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.2,
+    "course": {
+      "fees": "1,50,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "8,00,000", "highest": "16,00,000" },
+    "userReviewRating": { "review": "8.1", "users": "200" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 33,
+    "name": "Indian Institute of Information Technology, Allahabad",
+    "branches": { "name": "B.Tech Information Technology", "cutoff": 170 },
+    "location": "Allahabad, Uttar Pradesh",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.1,
+    "course": {
+      "fees": "2,50,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,50,000", "highest": "15,00,000" },
+    "userReviewRating": { "review": "8.5", "users": "180" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 34,
+    "name": "Banaras Hindu University (BHU), Varanasi",
+    "branches": { "name": "B.Tech Chemical Engineering", "cutoff": 140 },
+    "location": "Varanasi, Uttar Pradesh",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.0,
+    "course": {
+      "fees": "1,30,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "9,00,000", "highest": "20,00,000" },
+    "userReviewRating": { "review": "7.8", "users": "150" },
+    "ranking": 5,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 35,
+    "name": "Thapar Institute of Engineering and Technology, Patiala",
+    "branches": { "name": "B.Tech Mechanical Engineering", "cutoff": 135 },
+    "location": "Patiala, Punjab",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.1,
+    "course": {
+      "fees": "2,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "7.7", "users": "200" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 36,
+    "name": "VIT University, Vellore",
+    "branches": {
+      "name": "B.Tech Electrical and Electronics Engineering",
+      "cutoff": 125
+    },
+    "location": "Vellore, Tamil Nadu",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.2,
+    "course": {
+      "fees": "1,80,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "8,50,000", "highest": "15,00,000" },
+    "userReviewRating": { "review": "8.0", "users": "250" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 37,
+    "name": "Jadavpur University, Kolkata",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 100 },
+    "location": "Kolkata, West Bengal",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.3,
+    "course": {
+      "fees": "1,20,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "7,00,000", "highest": "14,00,000" },
+    "userReviewRating": { "review": "8.2", "users": "170" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 38,
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "branches": {
+      "name": "B.E. Electrical and Electronics Engineering",
+      "cutoff": 145
+    },
+    "location": "Pilani, Rajasthan",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.4,
+    "course": {
+      "fees": "2,00,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "9,50,000", "highest": "16,00,000" },
+    "userReviewRating": { "review": "8.3", "users": "150" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 39,
+    "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
+    "branches": { "name": "B.Tech Mechanical Engineering", "cutoff": 115 },
+    "location": "Coimbatore, Tamil Nadu",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 4.1,
+    "course": {
+      "fees": "1,70,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "8,00,000", "highest": "12,00,000" },
+    "userReviewRating": { "review": "7.9", "users": "190" },
+    "ranking": 5,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 40,
+    "name": "Manipal Institute of Technology, Manipal",
+    "branches": {
+      "name": "B.Tech Computer Science Engineering",
+      "cutoff": 150
+    },
+    "location": "Manipal, Karnataka",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.0,
+    "course": {
+      "fees": "1,90,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "9,00,000", "highest": "14,00,000" },
+    "userReviewRating": { "review": "8.1", "users": "170" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 41,
+    "name": "SRM Institute of Science and Technology, Chennai",
+    "branches": {
+      "name": "B.Tech Electronics and Communication Engineering",
+      "cutoff": 125
+    },
+    "location": "Chennai, Tamil Nadu",
+    "approved": "UGC Approved",
+    "collegeduniaRating": 3.9,
+    "course": {
+      "fees": "2,10,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "8,00,000", "highest": "15,00,000" },
+    "userReviewRating": { "review": "7.8", "users": "150" },
+    "ranking": 4,
+    "sup": "th",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 42,
+    "name": "Indian Institute of Technology (IIT), Kharagpur",
+    "branches": { "name": "B.Tech Electrical Engineering", "cutoff": 165 },
+    "location": "Kharagpur, West Bengal",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.7,
+    "course": {
+      "fees": "2,50,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "11,50,000", "highest": "22,00,000" },
+    "userReviewRating": { "review": "9.0", "users": "200" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 43,
+    "name": "National Institute of Technology (NIT), Surathkal",
+    "branches": { "name": "B.Tech Civil Engineering", "cutoff": 140 },
+    "location": "Surathkal, Karnataka",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.2,
+    "course": {
+      "fees": "1,50,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "9,00,000", "highest": "15,00,000" },
+    "userReviewRating": { "review": "8.0", "users": "170" },
+    "ranking": 3,
+    "sup": "rd",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 44,
+    "name": "Indian Institute of Technology (IIT), Bombay",
+    "branches": {
+      "name": "B.Tech Computer Science and Engineering",
+      "cutoff": 210
+    },
+    "location": "Mumbai, Maharashtra",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.9,
+    "course": {
+      "fees": "2,80,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "12,00,000", "highest": "25,00,000" },
+    "userReviewRating": { "review": "9.2", "users": "250" },
+    "ranking": 1,
+    "sup": "st",
+    "featured": false
+  },
+  {
+    "collegeduniaRank": 45,
+    "name": "National Institute of Technology (NIT), Tiruchirappalli",
+    "branches": {
+      "name": "B.Tech Electronics and Communication Engineering",
+      "cutoff": 160
+    },
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "approved": "AICTE Approved",
+    "collegeduniaRating": 4.3,
+    "course": {
+      "fees": "1,70,000",
+      "courseType": "BE/B.Tech",
+      "year": "1st year fees"
+    },
+    "placement": { "average": "10,00,000", "highest": "18,00,000" },
+    "userReviewRating": { "review": "8.3", "users": "200" },
+    "ranking": 2,
+    "sup": "nd",
+    "featured": false
   }
 ]

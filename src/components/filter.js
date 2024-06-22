@@ -1,4 +1,3 @@
-/* eslint-disable no-case-declarations */
 const filterData = (property, setData, data, sortDirection) => {
   let sortedData = [...data].sort((a, b) => {
     let comparisonValue = 0;
