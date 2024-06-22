@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import "../CollegeTable.css";
 import colleges from "../constant/colleges.json";
 
@@ -42,13 +42,13 @@ const CollegeTable = () => {
     debouncedSearch(searchTerm);
   };
 
-  const fetchMoreData = () => {
+  const fetchMoreData = useCallback(() => {
     const newData = colleges.slice(page * 10, (page + 1) * 10);
     if (newData.length > 0) {
       setPage((prevPage) => prevPage + 1);
       setData((prevData) => [...prevData, ...newData]);
     }
-  };
+  }, [page]);
 
   useEffect(() => {
     const currentRef = loadMoreRef.current;
@@ -68,7 +68,7 @@ const CollegeTable = () => {
         observer.unobserve(currentRef);
       }
     };
-  }, [page, data]);
+  }, [page, data, fetchMoreData]);
 
   return (
     <>
@@ -234,7 +234,11 @@ const CollegeTable = () => {
                       <sup>{college.sup}</sup>/{" "}
                       <span className="text-orange-500">131</span> in India
                       <div className="flex gap-1">
-                        <img src="../images/thetimes.png" width={50} />
+                        <img
+                          src="../images/thetimes.png"
+                          alt="img"
+                          width={50}
+                        />
                         <span className="text-gray-500">2023</span>
                       </div>
                     </div>
