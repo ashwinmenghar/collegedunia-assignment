@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "../CollegeTable.css";
 import colleges from "../constant/colleges.json";
 
